@@ -1,0 +1,35 @@
+.chef1{
+    height: 170px;
+    width: 100%;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.chef2{
+    height: 180px;
+    width: 400px;
+}
+.chef3{
+    border-top: 2px solid red;
+    border-bottom: 1px solid rgb(0, 255, 8);
+    border-right: 1px solid rgb(255, 0, 221);
+    
+    border-radius: 10px;
+}
+.chef5{
+    border-top: none;
+}
+.chef4{
+    padding: 0;
+    margin: 0;
+}
+.skype{
+    color: #00aff0;
+}
+.youtube{
+    color: #c4302b;
+}
+.chef{
+    background-color: #ebdaf8;
+    height: 80vh;
+}
